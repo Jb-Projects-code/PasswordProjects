@@ -35,4 +35,4 @@ elif score >3:
     print("Password strength: weak") 
 
 elif score >= 2:
-    print("There is something wrong with you, do you want be hacked")
+    print("Hackers must love you")
